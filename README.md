@@ -154,3 +154,8 @@ This project is open source under the MIT License.
 - **Google Gemini Team** - For the generative AI models and API.
 - **React & Framer Motion teams** - For the frontend libraries.
 
+
+
+---
+
+**License — All rights reserved.** This repository is shared for review only. Please **contact me before using any part of it** for any purpose. See [LICENSE](LICENSE).
