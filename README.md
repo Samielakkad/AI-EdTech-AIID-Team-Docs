@@ -33,7 +33,7 @@ This project was a collaborative effort by the members of the **AI-Explorers** l
 
 - **EL AKKAD SAMI** - Creator of S.S.O. (Sovereign School OS)
   - LinkedIn: [sami-el-akkad](https://www.linkedin.com/in/sami-el-akkad-%E8%90%A8%E7%B1%B3-361296188/)
-  - GitHub: [SAMI-ELAKKAD](https://github.com/SAMI-ELAKKAD)
+  - GitHub: [Samielakkad](https://github.com/Samielakkad)
   - Email: elakkadsami00@gmail.com
 - **CHUTIRAT SAENGYINGYONGWATTANA** - Creator of Miscellaneous Tutor
 - **Camellia Yip** - Founder of Ask Smart
@@ -47,7 +47,7 @@ This project was a collaborative effort by the members of the **AI-Explorers** l
 - **Home** - Introduction and overview of our hackathon mission and projects.
 - **Team** - Profiles of team members and their roles.
 - **Projects** - Detailed pages for each of our three hackathon projects:
-  - **Sovereign School OS (S.S.O.)** - A gamified AI learning OS that crafts personalized adventures for students and generates instant, game-based presentations for teachers. (Solo source archive: [SSO-final](https://github.com/SAMI-ELAKKAD/SSO-final))
+  - **Sovereign School OS (S.S.O.)** - A gamified AI learning OS that crafts personalized adventures for students and generates instant, game-based presentations for teachers. (Solo source archive: [SSO-final](https://github.com/Samielakkad/SSO-final))
   - **Miscellaneous Tutor** - An AI-powered educational chatbot that uses the DeepSeek API to generate interactive HTML lessons and quizzes on any topic, right in your chat window.
   - **Ask Smart** - An AI-powered communication coach for ROKID glasses that provides real-time, subtle guidance to help you navigate high-pressure conversations.
 - **Communication** - A showcase of promotional efforts, social media presence, and community feedback.
