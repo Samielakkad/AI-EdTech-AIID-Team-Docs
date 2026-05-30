@@ -345,7 +345,7 @@ const HomePage: React.FC = () => {
               />
           </div>
         </div>
-      </section>
+      </motion.section>
 
       {/* Testimonials Section */}
        <motion.section 
@@ -359,7 +359,7 @@ const HomePage: React.FC = () => {
         <motion.div variants={itemVariants} className="max-w-5xl mx-auto">
           <TestimonialCarousel testimonials={testimonials} />
         </motion.div>
-      </section>
+      </motion.section>
 
       {/* Project Overviews */}
        <motion.section 
@@ -404,7 +404,7 @@ const HomePage: React.FC = () => {
             </NavLink>
           ))}
         </div>
-      </section>
+      </motion.section>
     </div>
     <VideoModal 
       isOpen={!!activeVideoUrl}
