@@ -617,7 +617,7 @@ const SSOProjectPage: React.FC<{ project: Project; setIsShareModalOpen: (isOpen:
                   </button>
               </div>
           </motion.div>
-        </section>
+        </motion.section>
 
         <div className="flex flex-col lg:flex-row gap-12 lg:gap-16">
           {/* SIDEBAR */}

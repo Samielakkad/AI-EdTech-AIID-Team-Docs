@@ -106,7 +106,7 @@ const AboutHackathonPage: React.FC = () => {
                  <img src="https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=1200&auto=format&fit=crop" alt="Hackathon event in progress" className="rounded-lg shadow-xl w-full h-full object-cover" style={{ transform: 'translateZ(40px)' }}/>
               </div>
           </div>
-        </section>
+        </motion.section>
 
         <section>
           <h2 className="text-4xl text-center mb-8">Organizers & Partners</h2>
