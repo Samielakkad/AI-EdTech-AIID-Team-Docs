@@ -1,4 +1,4 @@
-# AIID Hackathon 2025 - AI-Explorers Documentation Website
+# AI + EdTech · AIID Hackathon 2025 - AI-Explorers Documentation Website
 
 > A comprehensive documentation website built for the Tsinghua AIID Hackathon 2025, showcasing our team's collaboration, development processes, and project outcomes. This platform serves as a centralized hub for presenting our hackathon projects, team profiles, and a technical tutorial based on our experience.
 
