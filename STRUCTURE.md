@@ -46,4 +46,4 @@
 3. **Animation as content.** Framer Motion is treated as part of the documentation, not decoration - constellation backgrounds, 3D-tilt cards, and the clickable architecture diagram are how complex ideas get communicated.
 4. **Keyboard-driven navigation.** Command palette (Cmd/Ctrl + K) is first-class, not an afterthought.
 
-For the full project overview, see [README.md](./README.md). For the solo Sovereign School OS source archive, see [SSO-final](https://github.com/Samielakkad/ai-edtech-sovereign-school-os).
+For the full project overview, see [README.md](./README.md). For the solo Sovereign School OS source archive, see [SSO-final](https://github.com/Samielakkad/AI-EdTech-Sovereign-School-OS).

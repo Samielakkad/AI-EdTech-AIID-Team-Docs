@@ -47,7 +47,7 @@ This project was a collaborative effort by the members of the **AI-Explorers** l
 - **Home** - Introduction and overview of our hackathon mission and projects.
 - **Team** - Profiles of team members and their roles.
 - **Projects** - Detailed pages for each of our three hackathon projects:
-  - **Sovereign School OS (S.S.O.)** - A gamified AI learning OS that crafts personalized adventures for students and generates instant, game-based presentations for teachers. (Solo source archive: [SSO-final](https://github.com/Samielakkad/ai-edtech-sovereign-school-os))
+  - **Sovereign School OS (S.S.O.)** - A gamified AI learning OS that crafts personalized adventures for students and generates instant, game-based presentations for teachers. (Solo source archive: [SSO-final](https://github.com/Samielakkad/AI-EdTech-Sovereign-School-OS))
   - **Miscellaneous Tutor** - An AI-powered educational chatbot that uses the DeepSeek API to generate interactive HTML lessons and quizzes on any topic, right in your chat window.
   - **Ask Smart** - An AI-powered communication coach for ROKID glasses that provides real-time, subtle guidance to help you navigate high-pressure conversations.
 - **Communication** - A showcase of promotional efforts, social media presence, and community feedback.
